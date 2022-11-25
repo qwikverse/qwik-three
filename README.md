@@ -1,5 +1,6 @@
 # Qwik City App ⚡️
-
+- Credits to Fireship for providing this code https://github.com/fireship-io/threejs-scroll-animation-demo
+- 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
 - [Qwik GitHub](https://github.com/BuilderIO/qwik)
